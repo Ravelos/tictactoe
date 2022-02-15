@@ -1,0 +1,28 @@
+@import url(https://fonts.googleapis.com/css?family=Abril+Fatface&display=swap);
+
+
+.player{
+  font-size: 3.5rem;
+  line-height: 80%;
+ transform: rotateX(0) rotateY(-25deg);
+  text-transform: uppercase;
+  width: 500px;
+text-align: center;
+  color: #b9dfff;
+  color: #fff;
+  font-family: "Zefani";
+font-family: 'Abril Fatface';
+  margin: 3rem auto;
+  position: relative;
+  padding: 2rem 0 9rem;
+  text-shadow: 0 0 5px #fff,0 0 10px #fff,0 0 15px #fff,0 0 20px #228dff,0 0 35px #228dff,0 0 40px #228dff;
+}
+
+.board{
+  text-align: center;
+
+}
+
+.restart{
+  float: center;
+}
